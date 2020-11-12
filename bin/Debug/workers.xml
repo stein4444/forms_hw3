@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfWorker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Worker>
+    <surname>asdad</surname>
+    <sallary>2131</sallary>
+    <poss>ddfsfs</poss>
+    <city>dsfsf</city>
+    <street>fsdsf</street>
+    <number>213</number>
+  </Worker>
+  <Worker>
+    <surname>sada</surname>
+    <sallary>2131</sallary>
+    <poss>dassda</poss>
+    <city>dasad</city>
+    <street>dasa</street>
+    <number>213</number>
+  </Worker>
+  <Worker>
+    <surname>sdada</surname>
+    <sallary>213</sallary>
+    <poss>asada</poss>
+    <city>dasdada</city>
+    <street>adsad</street>
+    <number>2131</number>
+  </Worker>
+  <Worker>
+    <surname>adsad</surname>
+    <sallary>213</sallary>
+    <poss>adsad</poss>
+    <city>adsad</city>
+    <street>adas</street>
+    <number>213</number>
+  </Worker>
+</ArrayOfWorker>

@@ -1,0 +1,10 @@
+E:\c# 2semestr\forms_hw3\bin\Debug\forms_hw3.exe.config
+E:\c# 2semestr\forms_hw3\bin\Debug\forms_hw3.exe
+E:\c# 2semestr\forms_hw3\bin\Debug\forms_hw3.pdb
+E:\c# 2semestr\forms_hw3\obj\Debug\forms_hw3.csprojAssemblyReference.cache
+E:\c# 2semestr\forms_hw3\obj\Debug\forms_hw3.Form1.resources
+E:\c# 2semestr\forms_hw3\obj\Debug\forms_hw3.Properties.Resources.resources
+E:\c# 2semestr\forms_hw3\obj\Debug\forms_hw3.csproj.GenerateResource.cache
+E:\c# 2semestr\forms_hw3\obj\Debug\forms_hw3.csproj.CoreCompileInputs.cache
+E:\c# 2semestr\forms_hw3\obj\Debug\forms_hw3.exe
+E:\c# 2semestr\forms_hw3\obj\Debug\forms_hw3.pdb
